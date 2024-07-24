@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-24T20:35:10 IST" name="Default suite" finished-at="2024-07-24T20:35:23 IST" duration-ms="13369">
+    <groups>
+    </groups>
+    <test started-at="2024-07-24T20:35:10 IST" name="Default test" finished-at="2024-07-24T20:35:23 IST" duration-ms="13369">
+      <class name="shoppingCart.shoppingCart.shopingcartTest">
+        <test-method signature="openurl()[pri:1, instance:shoppingCart.shoppingCart.shopingcartTest@75d4a5c2]" started-at="2024-07-24T20:35:10 IST" name="openurl" finished-at="2024-07-24T20:35:17 IST" duration-ms="7123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+        <test-method signature="loginwithregisteruser()[pri:2, instance:shoppingCart.shoppingCart.shopingcartTest@75d4a5c2]" started-at="2024-07-24T20:35:17 IST" name="loginwithregisteruser" finished-at="2024-07-24T20:35:17 IST" duration-ms="290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithregisteruser -->
+        <test-method signature="addingCart()[pri:3, instance:shoppingCart.shoppingCart.shopingcartTest@75d4a5c2]" started-at="2024-07-24T20:35:17 IST" name="addingCart" finished-at="2024-07-24T20:35:23 IST" duration-ms="5851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingCart -->
+      </class> <!-- shoppingCart.shoppingCart.shopingcartTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
